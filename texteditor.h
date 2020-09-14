@@ -6,6 +6,8 @@
 #include <QtGui>
 #include <QString>
 #include <QFont>
+#include <QFileDialog>
+#include <QFile>
 
 
 QT_BEGIN_NAMESPACE
@@ -43,7 +45,7 @@ private slots:
 
 private:
     Ui::textEditor *ui;
-    QString mFilename;
+    QString mFilepath;
     int weight;
 };
 #endif // TEXTEDITOR_H

@@ -1,0 +1,16 @@
+images/New.png
+images/bold.png
+images/copy.png
+images/cut.png
+images/open.png
+images/paste.png
+images/redo.png
+images/save-as.png
+images/save.png
+images/undo.png
+main.cpp
+textEditor_resources.qrc
+text_editor.pro
+texteditor.cpp
+texteditor.h
+texteditor.ui
